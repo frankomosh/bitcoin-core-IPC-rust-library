@@ -1,1 +1,1 @@
-# bitcoin-core-IPC-rust-library
+# bitcoin-ipc-lib
